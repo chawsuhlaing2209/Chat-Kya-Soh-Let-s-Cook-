@@ -1,0 +1,44 @@
+.nav-icon {
+    text-align: center;
+}
+
+.nav-icon a {
+    display:inline-block;
+    float: none;
+}
+
+.card 
+{
+    position: relative;
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.6);
+    padding: 35px 10px;
+    margin-top: 10%;
+    box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19); 
+    border: 1px solid #bbb;
+}
+
+.card-body
+{ padding: 1rem;
+}
+#recipe
+{   
+    position: relative;
+    font-size: 15px;
+    font-weight: 100px;
+    font-family: "Roboto", sans-serif;
+    color: #000;
+    background-color: rgba(0, 0, 0, 0);
+  border-radius: 5px;
+ 
+
+}
+.btn {
+    padding: 5px;
+    font-size: 15px;
+    color: black;
+    background: #16A085;
+    border: none;
+    border-radius: 5px;
+}
+
